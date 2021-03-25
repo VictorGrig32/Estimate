@@ -18,7 +18,7 @@
 </ul>
 <h2>Ссылки:</h2>
 <ul>
- <li><a href="https://github.com/VictorGrig32/Evaluator/blob/main/Documents/Tekhnicheskoe_zadanie_5_komanda_1_1.pdf=/">Техническое задание</a></li>
+ <li><a href="https://github.com/VictorGrig32/Evaluator/blob/5976f2b5d95329e8ae8d699ca9a165ef81349549/Documents/Tekhnicheskoe_zadanie_5_komanda_1_1.pdf=/">Техническое задание</a></li>
 <li><a href="https://trello.com/b/4dR63xVL/оценочник">Trello</a></li>
 <li><a href="https://miro.com/app/board/o9J_lORfzBQ=/">Miro</a></li>
 </ul>
