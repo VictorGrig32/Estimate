@@ -1,4 +1,4 @@
-# Evaluator
+# MyMarks
 <p align="center"></p>
 
 <p align="center">
