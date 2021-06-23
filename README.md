@@ -18,10 +18,11 @@
 </ul>
 <h2>Ссылки:</h2>
 <ul>
- <li><a href="https://github.com/VictorGrig32/Evaluator/blob/main/Documents/Техническое%20задание%205%20команда.pdf">Техническое задание</a></li>
+ <li><a href="https://github.com/VictorGrig32/Evaluator/blob/843e6c3e0c2af266ecc065ed5c93d11a7b10d4b1/documents/Tekhnicheskoe_zadanie_5_komanda.pdf">Техническое задание</a></li>
 <li><a href="https://trello.com/b/4dR63xVL/оценочник">Trello</a></li>
 <li><a href="https://miro.com/app/board/o9J_lORfzBQ=/">Miro</a></li>
-<li><a href="https://github.com/VictorGrig32/Evaluator/blob/main/Documents/Course_project.pdf">Курсовой проект</a></li>
+<li><a href="https://github.com/VictorGrig32/Evaluator/blob/9c3c072432e795b3a96fabb335c9573324f9219d/documents/Kursovaya_mymarks.pdf">Курсовой проект</a></li>
+<li><a href="https://github.com/VictorGrig32/Evaluator/blob/843e6c3e0c2af266ecc065ed5c93d11a7b10d4b1/documents/Prezentation_mymarks.pdf">Презентация</a></li>
 </ul>
 <h2>Email для связи:</h2>
 <ol>
