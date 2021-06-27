@@ -27,7 +27,7 @@
 <li><a href="https://github.com/VictorGrig32/Evaluator/blob/843e6c3e0c2af266ecc065ed5c93d11a7b10d4b1/documents/Tekhnicheskoe_zadanie_5_komanda.pdf">Техническое задание</a></li>
 <li><a href="https://github.com/VictorGrig32/MyMarks/blob/cfdbd713422b47a7b4548b96efeb2a3c2812d373/documents/Kursovaya_mymarks.pdf">Курсовой проект</a></li>
 <li><a href="https://github.com/VictorGrig32/MyMarks/blob/cbd66036ba58eb8525e67ffa9cf2600c3e3225e9/documents/Prezentation_mymarks.pdf">Презентация</a></li>
-<li><a href="https://metrika.yandex.ru/dashboard?id=82166278">Метрики</a></li>
+<li><a href="https://metrika.yandex.ru/dashboard?group=day&period=week&id=82166278">Метрики</a></li>
 <li><a href="https://youtu.be/PlZZKbWJ_gs">Видео защиты</a></li>
 </ul>
 <h2>Сайт:</h2>
