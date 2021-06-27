@@ -18,6 +18,7 @@
 </ul>
 <h2>Ссылки:</h2>
 <ul>
+<li><a href="https://github.com/VictorGrig32/MyMarks/tree/main/documents/Диаграммы">Диаграммы</a></li> 
 <li><a href="https://github.com/VictorGrig32/MyMarks/tree/main/Project">Исходный код проекта</a></li>
 <li><a href="https://metrika.yandex.ru/dashboard?id=82166278">Метрики</a></li>
 <li><a href="https://github.com/VictorGrig32/Evaluator/blob/843e6c3e0c2af266ecc065ed5c93d11a7b10d4b1/documents/Tekhnicheskoe_zadanie_5_komanda.pdf">Техническое задание</a></li>
