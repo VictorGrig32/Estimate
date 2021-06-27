@@ -29,6 +29,7 @@
 <li><a href="https://github.com/VictorGrig32/MyMarks/blob/cbd66036ba58eb8525e67ffa9cf2600c3e3225e9/documents/Prezentation_mymarks.pdf">Презентация</a></li>
 <li><a href="https://metrika.yandex.ru/dashboard?group=day&period=week&id=82166278">Метрики</a></li>
 <li><a href="https://youtu.be/PlZZKbWJ_gs">Видео защиты</a></li>
+<li><a href="https://www.youtube.com/watch?v=aSQk-pwWQS4">Видео защиты</a></li>
 </ul>
 <h2>Сайт:</h2>
 <ul>
