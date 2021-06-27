@@ -16,6 +16,11 @@
 <li>Григоренко Виктор - Front-end разработчик, дизайнер </li>
 <li>Дмитрий Пахомов - Back-end разработчик, менеджер</li>
 </ul>
+<h2>Сервисы для работы:</h2>
+<ul>
+<li><a href="https://trello.com/b/4dR63xVL/оценочник">Trello</a></li>
+<li><a href="https://miro.com/app/board/o9J_lORfzBQ=/">Miro</a></li>
+</ul>
 <h2>Документация:</h2>
 <ul>
 <li><a href="https://github.com/VictorGrig32/MyMarks/tree/main/documents/Диаграммы">Диаграммы</a></li> 
@@ -24,17 +29,12 @@
 <li><a href="https://github.com/VictorGrig32/Evaluator/blob/843e6c3e0c2af266ecc065ed5c93d11a7b10d4b1/documents/Prezentation_mymarks.pdf">Презентация</a></li>
 <li><a href="https://metrika.yandex.ru/dashboard?id=82166278">Метрики</a></li>
 </ul>
-<h2>Сервисы для работы:</h2>
+<h2>Сайт:</h2>
 <ul>
-<li><a href="https://trello.com/b/4dR63xVL/оценочник">Trello</a></li>
-<li><a href="https://miro.com/app/board/o9J_lORfzBQ=/">Miro</a></li>
-</ul>
+<li><a href="http://a0525177.xsph.ru/site/index">Сайт Mymarks</a></li>
 <h2>Email для связи:</h2>
 <ol>
 <li>Григоренко Виктор: <a href="grigorenko200@gmail.com">grigorenko200@gmail.com</a></li>
 <li>Дмитрий Пахомов: <a href="homma2000@bk.ru">homma2000@bk.ru</a></li>
 </ol>
 </ul>
-<h2>Сайт:</h2>
-<ul>
-<li><a href="http://a0525177.xsph.ru/site/index">Сайт Mymarks</a></li>
