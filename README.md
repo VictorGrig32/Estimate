@@ -34,5 +34,5 @@
 <li><a href="http://a0525177.xsph.ru/site/index">Сайт Mymarks</a></li>
 <h2>Email для связи:</h2>
 <ol>
-Григоренко Виктор: <a href="grigorenko200@gmail.com">grigorenko200@gmail.com</a>
-Дмитрий Пахомов: <a href="homma2000@bk.ru">homma2000@bk.ru</a>
+<li>Григоренко Виктор: <a href="grigorenko200@gmail.com">grigorenko200@gmail.com</a></li>
+<li>Дмитрий Пахомов: <a href="homma2000@bk.ru">homma2000@bk.ru</a></li>
