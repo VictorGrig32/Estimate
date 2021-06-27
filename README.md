@@ -28,6 +28,7 @@
 <li><a href="https://github.com/VictorGrig32/MyMarks/blob/cfdbd713422b47a7b4548b96efeb2a3c2812d373/documents/Kursovaya_mymarks.pdf">Курсовой проект</a></li>
 <li><a href="https://github.com/VictorGrig32/MyMarks/blob/cfdbd713422b47a7b4548b96efeb2a3c2812d373/documents/Prezentation_mymarks.pptx">Презентация</a></li>
 <li><a href="https://metrika.yandex.ru/dashboard?id=82166278">Метрики</a></li>
+<li><a href="https://www.youtube.com/watch?v=PlZZKbWJ_gs&t=378s">Видео защиты</a></li>
 </ul>
 <h2>Сайт:</h2>
 <ul>
